@@ -1,7 +1,7 @@
 # Edx-course-activities:
 ### This repository contents all the activities I passed in EDX C programming course.
 
-### C Programming: Language Foundations
+- ## C Programming: Language Foundations
 |The statement| My solution |
 |--|--|
 |  [if statements: carpooling](https://github.com/Abla-ouh/Edx-course-activities/blob/main/if%20statements:%20carpooling.md)| [if statements: carpooling.c](https://github.com/Abla-ouh/Edx-course-activities/blob/main/if%20statements:%20carpooling.c) |
