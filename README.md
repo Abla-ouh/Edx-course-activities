@@ -1,7 +1,8 @@
 # Edx-course-activities:
 ### This repository contents all the activities I passed in EDX C programming course.
 
-- ## C Programming: Language Foundations
+ - ## C Programming: Language Foundations
+
 |The statement| My solution |
 |--|--|
 |  [if statements: carpooling](https://github.com/Abla-ouh/Edx-course-activities/blob/main/if%20statements:%20carpooling.md)| [if statements: carpooling.c](https://github.com/Abla-ouh/Edx-course-activities/blob/main/if%20statements:%20carpooling.c) |
@@ -14,3 +15,6 @@
 |[use an array to balance weights](https://github.com/Abla-ouh/Edx-course-activities/blob/main/use%20an%20array%20to%20balance%20weights.md)|[use an array to balance weights.c](https://github.com/Abla-ouh/Edx-course-activities/blob/main/use%20an%20array%20to%20balance%20weights.c)|
 |[array computation](https://github.com/Abla-ouh/Edx-course-activities/blob/main/array%20computation.md)|[array computation.c](https://github.com/Abla-ouh/Edx-course-activities/blob/main/array%20computation.c)|
 |[branch inside a loop, how many big cities?](https://github.com/Abla-ouh/Edx-course-activities/blob/main/branch%20inside%20a%20loop,%20how%20many%20big%20cities?.md)|[branch inside a loop, how many big cities?.c](https://github.com/Abla-ouh/Edx-course-activities/blob/main/branch%20inside%20a%20loop,%20how%20many%20big%20cities?.c)|
+|[print a square of stars using nested loops](https://github.com/Abla-ouh/Edx-course-activities/blob/main/more%20complex%20if%20statements:%20costly%20hotel%20rooms.md)|[print a square of stars using nested loops.c](https://github.com/Abla-ouh/Edx-course-activities/blob/main/print%20a%20square%20of%20stars%20using%20nested%20loops.c)|
+|[compute budget using a while loop](https://github.com/Abla-ouh/Edx-course-activities/blob/main/compute%20budget%20using%20a%20while%20loop.md)|[compute budget using a while loop.c](https://github.com/Abla-ouh/Edx-course-activities/blob/main/compute%20budget%20using%20a%20while%20loop.c)|
+|[controlling an epidemic](https://github.com/Abla-ouh/Edx-course-activities/blob/main/controlling%20an%20epidemic.md)|[controlling an epidemic.c](https://github.com/Abla-ouh/Edx-course-activities/blob/main/controlling%20an%20epidemic.c)|
