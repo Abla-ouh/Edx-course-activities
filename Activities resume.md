@@ -1,7 +1,7 @@
 # Edx-course-activities:
 ### This repository contents all the activities I passed in EDX C programming course.
 
- - ## C Programming: Language Foundations
+  - ## C Programming: Language Foundations
 
 |The statement| My solution |
 |--|--|
@@ -22,3 +22,4 @@
 |[monitoring a chemical experiment](https://github.com/Abla-ouh/Edx-course-activities/blob/main/monitoring%20a%20chemical%20experiment.md)|[monitoring a chemical experiment.c](https://github.com/Abla-ouh/Edx-course-activities/blob/main/monitoring%20a%20chemical%20experiment.c)|
 |[repeat a word read from the user input](https://github.com/Abla-ouh/Edx-course-activities/blob/main/repeat%20a%20word%20read%20from%20the%20user%20input.md)|[repeat a word read from the user input.c](https://github.com/Abla-ouh/Edx-course-activities/blob/main/repeat%20a%20word%20read%20from%20the%20user%20input.c)|
 |[swap first and last name](https://github.com/Abla-ouh/Edx-course-activities/blob/main/swap%20first%20and%20last%20name.md)|[swap first and last name.c](https://github.com/Abla-ouh/Edx-course-activities/blob/main/swap%20first%20and%20last%20name.c)|
+|[even or odd number of letters in a word?](https://github.com/Abla-ouh/Edx-course-activities/blob/main/even%20or%20odd%20number%20of%20letters%20in%20a%20word?.md)|[even or odd number of letters in a word?.c](https://github.com/Abla-ouh/Edx-course-activities/blob/main/even%20or%20odd%20number%20of%20letters%20in%20a%20word?.c)|
