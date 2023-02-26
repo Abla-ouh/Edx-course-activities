@@ -5,8 +5,9 @@ int main(void){
     int temp;
     scanf("%d",&min);
     scanf("%d",&max);
+    scanf("%d",&temp);
+    
     while(temp!=-999){
-        scanf("%d",&temp);
         if(temp>=min && temp<=max){
             printf("Nothing to report\n");
         }
@@ -14,6 +15,7 @@ int main(void){
             printf("Alert!\n");
             break;
         }
+        scanf("%d",&temp);
     }
     return 0;
 }
